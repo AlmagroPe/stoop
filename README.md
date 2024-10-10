@@ -1,3 +1,5 @@
 # Stoop
 
-A simple Scala-like language. [Read more](https://creativescala.org/stoop).
+Implementation of a simple Scala-like language.
+
+Lambda World 2024 workshops.
